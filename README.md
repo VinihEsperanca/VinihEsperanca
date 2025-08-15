@@ -1,9 +1,7 @@
 ## Vinícius Henrique Esperança
 
 ![VinihEsperanca's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VinihEsperanca&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
-
 ![VinihEsperanca's Stats](https://github-readme-stats.vercel.app/api?username=VinihEsperanca&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-
 ![VinihEsperanca's Streak](https://github-readme-streak-stats.herokuapp.com/?user=VinihEsperanca&theme=tokyonight&hide_border=false)
 
 <picture>
